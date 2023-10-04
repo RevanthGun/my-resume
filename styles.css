@@ -1,0 +1,25 @@
+body {
+    background-color: #f0ddbf;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+  }
+ 
+  h3{
+  
+   color: black;
+  }
+  th,td{
+    padding:13px;
+  }
+  .copyright{
+    padding-top: 20px;
+  }
